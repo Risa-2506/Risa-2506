@@ -44,14 +44,6 @@
 - **Amazon Clone** – Frontend practice using HTML, CSS & JavaScript
 - **2D Unity Game** – First game developed using Unity
 
----
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Risa-2506&show_icons=true&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risa-2506&layout=compact&theme=tokyonight" />
 
 
