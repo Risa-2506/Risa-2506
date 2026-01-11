@@ -48,6 +48,7 @@
 
 ## 📊 GitHub Stats
 
-![Risa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Risa-2506&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Risa-2506&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Risa-2506&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Risa-2506&layout=compact&theme=dark)
+
