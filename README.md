@@ -52,11 +52,22 @@
 
 ---
 
-## 📌 Featured Projects
-- **HealthCare Full Stack Java** – Backend using Java Servlets & MySQL
-- **HealthVerse Prototype** – Innovation project with geofencing & sensors
-- **Amazon Clone** – Frontend practice using HTML, CSS & JavaScript
-- **2D Unity Game** – First game developed using Unity
+## 🚀 Featured Projects
+
+- **🏥 HealthVerse (React Native + Sensors)**  
+  Smart healthcare prototype using geofencing and sensor data to monitor and manage patient-related activities in real time.
+
+- **🧠 ColoHack Hackathon Project (Computer Vision + Prediction)**  
+  Built a system using OpenCV to track real-time patient movement and recovery patterns, and predict when hospital beds and wards will become available.
+
+- **🎮 Real of the Bell – 3D Game (Unity + Hand Gesture Control)**  
+  Developed a hybrid action game with keyboard and real-time hand gesture controls using webcam-based input for interactive gameplay.
+
+- **🛡️ Healthcare Backend System (Java, Servlets, MySQL)**  
+  Designed backend logic for managing patient data, hospital resources, and system workflows.
+
+- **🎮 KnightGo – 2D Game (Unity)**  
+  Built a 2D game to explore game mechanics, physics, and core development fundamentals.
 
 
 
