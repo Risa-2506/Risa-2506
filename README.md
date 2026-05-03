@@ -7,11 +7,16 @@
 ---
 
 ## 👩‍💻 About Me
-- Currently learning **Full Stack Java Development**
-- Worked on **Java Servlets, JDBC, and MySQL** for backend projects
-- Built frontend projects using **HTML, CSS, and JavaScript**
-- Experienced in **team collaboration using Git & GitHub branches**
-- Enjoys problem solving, project-based learning, and experimentation
+
+- Computer Engineering student focused on **Full Stack & Backend Development**
+- Built multiple projects using the **MERN stack** and Java-based backend systems (Servlets, JDBC, MySQL)
+- Developed both **2D and 3D games**, exploring real-time logic and interactive system design
+- Part of **top 10 - teams at ColoHack hackathon (Finalist)**
+- Winner at **Teknack (flagship event of ACM)** for project development
+- Built projects like **HealthVerse** (React Native + sensors) and a hospital system for **patient recovery prediction and resource tracking**
+- Interested in **Backend Systems, System Design, AI/ML, and Cybersecurity**
+- Comfortable with **Git, GitHub, and collaborative development workflows**
+- Strong believer in learning by building and solving real-world problems
 
 ---
 
