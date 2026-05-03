@@ -54,7 +54,7 @@
 
 ## 🚀 Featured Projects
 
-- **🏥 HealthVerse (React Native + Sensors)**  
+- **🏥 HealthVerse (React Native + Node js + Express Js + MongoDB + Sensors)**  
   Smart healthcare prototype using geofencing and sensor data to monitor and manage patient-related activities in real time.
 
 - **🧠 ColoHack Hackathon Project (Computer Vision + Prediction)**  
@@ -66,7 +66,7 @@
 - **🛡️ Healthcare Backend System (Java, Servlets, MySQL)**  
   Designed backend logic for managing patient data, hospital resources, and system workflows.
 
-- **🎮 KnightGo – 2D Game (Unity)**  
+- **🎮 KnightGon – 2D Game (Unity)**  
   Built a 2D game to explore game mechanics, physics, and core development fundamentals.
 
 
